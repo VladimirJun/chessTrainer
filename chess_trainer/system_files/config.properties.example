@@ -1,0 +1,7 @@
+# rename me to config.properties in your local repository
+[Main]
+LichessToken=lip_N2yQyunSWcrSzKlnSW9k
+# Have to download and extract a binary from the stockfish engine for linux .tar file
+# EngineStr=//home//kvmal//engine//stockfish-ubuntu-x86-64-sse41-popcnt
+# For Windows
+EngineStr=D:\\chess\\stockfish\\stockfish-windows-x86-64-sse41-popcnt.exe
